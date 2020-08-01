@@ -28,6 +28,7 @@ void glCircle(GLint x, GLint y, GLint radius) {
 		{
 			glColor3f(0.0, 1.0, 0.0);
 		}
+
 		else {
 			glColor3f(0.0, 0.0, 1.0);
 
